@@ -1,6 +1,6 @@
 # Breast-Cancer-Detection-ML
 
-Breast cancer is a disease in which abnormal breast cells grow out of control and form tumours.
+Breast cancer is a disease in which abnormal breast cells grow out of control and form tumours. The class column in the given daatset will tell us whether the tumor is 'mailgnant' or 'beningn'
 
 After performing EDA:
 - Split Dataset into Training and Testing data
